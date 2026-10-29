@@ -1,0 +1,17 @@
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Integration\bin\Debug\net8.0\InvoiceTracker.Integration.deps.json
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Integration\bin\Debug\net8.0\InvoiceTracker.Integration.dll
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Integration\bin\Debug\net8.0\InvoiceTracker.Integration.pdb
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Integration\obj\Debug\net8.0\InvoiceTracker.Integration.csproj.AssemblyReference.cache
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Integration\obj\Debug\net8.0\InvoiceTracker.Integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Integration\obj\Debug\net8.0\InvoiceTracker.Integration.AssemblyInfoInputs.cache
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Integration\obj\Debug\net8.0\InvoiceTracker.Integration.AssemblyInfo.cs
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Integration\obj\Debug\net8.0\InvoiceTracker.Integration.csproj.CoreCompileInputs.cache
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Integration\obj\Debug\net8.0\InvoiceTracker.Integration.dll
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Integration\obj\Debug\net8.0\refint\InvoiceTracker.Integration.dll
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Integration\obj\Debug\net8.0\InvoiceTracker.Integration.pdb
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Integration\obj\Debug\net8.0\ref\InvoiceTracker.Integration.dll
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Integration\bin\Debug\net8.0\InvoiceTracker.Application.dll
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Integration\bin\Debug\net8.0\InvoiceTracker.Application.pdb
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Integration\obj\Debug\net8.0\InvoiceT.63CCD9E8.Up2Date
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Integration\bin\Debug\net8.0\InvoiceTracker.MessageContract.dll
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Integration\bin\Debug\net8.0\InvoiceTracker.MessageContract.pdb

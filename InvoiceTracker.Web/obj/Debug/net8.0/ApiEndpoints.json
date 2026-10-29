@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "InvoiceTracker.Web.Controllers.InvoiceController",
+    "Method": "CreateInvoiceAsync",
+    "RelativePath": "api/Invoice/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "InvoiceTracker.Application.Feature.Invoice.Commands.CreateInvoiceCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InvoiceTracker.Web.Controllers.InvoiceController",
+    "Method": "CreateInvoicePaymentEntryAsync",
+    "RelativePath": "api/Invoice/MakePayment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "InvoiceTracker.Application.Feature.Invoice.Commands.PayInvoiceCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InvoiceTracker.Web.Controllers.PaymentController",
+    "Method": "InsertAsync",
+    "RelativePath": "api/Payment/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "InvoiceTracker.Application.Feature.Payment.Commands.CreatePaymentCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

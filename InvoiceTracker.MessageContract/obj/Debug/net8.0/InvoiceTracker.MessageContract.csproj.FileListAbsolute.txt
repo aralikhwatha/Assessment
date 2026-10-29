@@ -1,0 +1,11 @@
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.MessageContract\bin\Debug\net8.0\InvoiceTracker.MessageContract.deps.json
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.MessageContract\bin\Debug\net8.0\InvoiceTracker.MessageContract.dll
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.MessageContract\bin\Debug\net8.0\InvoiceTracker.MessageContract.pdb
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.MessageContract\obj\Debug\net8.0\InvoiceTracker.MessageContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.MessageContract\obj\Debug\net8.0\InvoiceTracker.MessageContract.AssemblyInfoInputs.cache
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.MessageContract\obj\Debug\net8.0\InvoiceTracker.MessageContract.AssemblyInfo.cs
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.MessageContract\obj\Debug\net8.0\InvoiceTracker.MessageContract.csproj.CoreCompileInputs.cache
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.MessageContract\obj\Debug\net8.0\InvoiceTracker.MessageContract.dll
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.MessageContract\obj\Debug\net8.0\refint\InvoiceTracker.MessageContract.dll
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.MessageContract\obj\Debug\net8.0\InvoiceTracker.MessageContract.pdb
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.MessageContract\obj\Debug\net8.0\ref\InvoiceTracker.MessageContract.dll

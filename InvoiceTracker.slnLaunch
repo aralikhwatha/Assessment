@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "InvoiceTracker.Web\\InvoiceTracker.Web.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "InvoiceTracker.Endpoint\\InvoiceTracker.Endpoint.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Persistence\obj\Debug\net8.0\InvoiceTracker.Persistence.csproj.AssemblyReference.cache
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Persistence\obj\Debug\net8.0\InvoiceTracker.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Persistence\obj\Debug\net8.0\InvoiceTracker.Persistence.AssemblyInfoInputs.cache
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Persistence\obj\Debug\net8.0\InvoiceTracker.Persistence.AssemblyInfo.cs
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Persistence\obj\Debug\net8.0\InvoiceTracker.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Persistence\bin\Debug\net8.0\InvoiceTracker.Persistence.deps.json
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Persistence\bin\Debug\net8.0\InvoiceTracker.Persistence.dll
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Persistence\bin\Debug\net8.0\InvoiceTracker.Persistence.pdb
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Persistence\bin\Debug\net8.0\InvoiceTracker.Application.dll
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Persistence\bin\Debug\net8.0\InvoiceTracker.Application.pdb
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Persistence\obj\Debug\net8.0\InvoiceT.FA1427FD.Up2Date
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Persistence\obj\Debug\net8.0\InvoiceTracker.Persistence.dll
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Persistence\obj\Debug\net8.0\refint\InvoiceTracker.Persistence.dll
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Persistence\obj\Debug\net8.0\InvoiceTracker.Persistence.pdb
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Persistence\obj\Debug\net8.0\ref\InvoiceTracker.Persistence.dll
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Persistence\bin\Debug\net8.0\InvoiceTracker.MessageContract.dll
+C:\Users\rkundani\OneDrive - Rand Mutual Assurance\Documents\Ambani\Capitec-Assessment\InvoiceTracker\InvoiceTracker.Persistence\bin\Debug\net8.0\InvoiceTracker.MessageContract.pdb
